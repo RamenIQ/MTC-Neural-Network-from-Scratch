@@ -1,2 +1,2 @@
-# CSES-Innovate-Demo
-demo
+# MTC-Neural-Network-Workshop
+We created a Neural Network from Scratch. 
